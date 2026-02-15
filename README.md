@@ -58,10 +58,6 @@ The skill activates when you ask about: audience research, consumer insights, ma
 "Build me an audience profile of EV owners in the US"
 ```
 
-## Research
-
-See [RESEARCH.md](RESEARCH.md) for the full research notes that informed this skill, including GWI platform documentation, MCP server details, data interpretation methodology, and Claude Code skill best practices.
-
 ## License
 
 MIT
