@@ -1,0 +1,8 @@
+{
+  "name": "gwi-research-skill",
+  "description": "Consumer audience research and insights skill for GWI (Global Web Index) MCP server. Provides query patterns, data interpretation guidance, and output formatting for audience profiling, market research, and consumer insights.",
+  "version": "1.0.0",
+  "skills": [
+    "./skills/gwi-research"
+  ]
+}
